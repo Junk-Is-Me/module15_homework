@@ -1,0 +1,21 @@
+body {
+   background-color:bisque;
+ margin: 0 auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {    
+    margin-top: 150px;
+    width: 75vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flag {
+    padding: 15px;
+}
+

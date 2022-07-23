@@ -1,0 +1,30 @@
+body {
+    background-color:bisque;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {    
+    margin-top: 150px;
+    width: 75vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+button {
+    width: 210px;
+    height: 70px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(231, 222, 222);
+    color: black;
+    font-size: 30px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
